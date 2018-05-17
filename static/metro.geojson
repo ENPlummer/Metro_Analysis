@@ -1,0 +1,1061 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.893592,38.886713 ]
+    },
+    "properties": {
+    "FIELD1":0,
+    "STATION":"Addison Road",
+    "RIDERS_PER_WEEKDAY":3330.172727
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.995648,38.862072 ]
+    },
+    "properties": {
+    "FIELD1":1,
+    "STATION":"Anacostia",
+    "RIDERS_PER_WEEKDAY":7126.998484999999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.021902,38.893893 ]
+    },
+    "properties": {
+    "FIELD1":2,
+    "STATION":"Archives-Navy Memorial",
+    "RIDERS_PER_WEEKDAY":8937.077273
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.063108,38.884574 ]
+    },
+    "properties": {
+    "FIELD1":3,
+    "STATION":"Arlington Cemetery",
+    "RIDERS_PER_WEEKDAY":1295.2939390000001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.111845,38.882071 ]
+    },
+    "properties": {
+    "FIELD1":4,
+    "STATION":"Ballston",
+    "RIDERS_PER_WEEKDAY":11515.80758
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.938291,38.890488 ]
+    },
+    "properties": {
+    "FIELD1":5,
+    "STATION":"Benning Road",
+    "RIDERS_PER_WEEKDAY":3042.9803030000003
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.094431,38.984282 ]
+    },
+    "properties": {
+    "FIELD1":6,
+    "STATION":"Bethesda",
+    "RIDERS_PER_WEEKDAY":10332.92424
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.053763,38.814009 ]
+    },
+    "properties": {
+    "FIELD1":7,
+    "STATION":"Braddock Road",
+    "RIDERS_PER_WEEKDAY":4431.309091
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.912134,38.826995 ]
+    },
+    "properties": {
+    "FIELD1":8,
+    "STATION":"Branch Avenue",
+    "RIDERS_PER_WEEKDAY":6283.4090909999995
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.994544,38.933234 ]
+    },
+    "properties": {
+    "FIELD1":9,
+    "STATION":"Brookland",
+    "RIDERS_PER_WEEKDAY":6728.457576000001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.913382,38.889757 ]
+    },
+    "properties": {
+    "FIELD1":10,
+    "STATION":"Capitol Heights",
+    "RIDERS_PER_WEEKDAY":2018.1015149999998
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.005137,38.884968 ]
+    },
+    "properties": {
+    "FIELD1":11,
+    "STATION":"Capitol South",
+    "RIDERS_PER_WEEKDAY":8041.365151999999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.915427,38.91652 ]
+    },
+    "properties": {
+    "FIELD1":12,
+    "STATION":"Cheverly",
+    "RIDERS_PER_WEEKDAY":1430.4106060000001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.096963,38.886373 ]
+    },
+    "properties": {
+    "FIELD1":13,
+    "STATION":"Clarendon",
+    "RIDERS_PER_WEEKDAY":4574.533332999999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.058226,38.934703 ]
+    },
+    "properties": {
+    "FIELD1":14,
+    "STATION":"Cleveland Park",
+    "RIDERS_PER_WEEKDAY":4413.390909000001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.032775,38.928672 ]
+    },
+    "properties": {
+    "FIELD1":15,
+    "STATION":"Columbia Heights",
+    "RIDERS_PER_WEEKDAY":12177.01667
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98817,38.845334 ]
+    },
+    "properties": {
+    "FIELD1":16,
+    "STATION":"Congress Heights",
+    "RIDERS_PER_WEEKDAY":2714.277273
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08391,38.891499 ]
+    },
+    "properties": {
+    "FIELD1":17,
+    "STATION":"Court House",
+    "RIDERS_PER_WEEKDAY":7398.727273
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.050589,38.85779 ]
+    },
+    "properties": {
+    "FIELD1":18,
+    "STATION":"Crystal City",
+    "RIDERS_PER_WEEKDAY":12683.1697
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.936177,38.907734 ]
+    },
+    "properties": {
+    "FIELD1":19,
+    "STATION":"Deanwood",
+    "RIDERS_PER_WEEKDAY":1642.583333
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.228939,38.883015 ]
+    },
+    "properties": {
+    "FIELD1":20,
+    "STATION":"Dunn Loring",
+    "RIDERS_PER_WEEKDAY":4830.633333
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04362,38.909499 ]
+    },
+    "properties": {
+    "FIELD1":21,
+    "STATION":"Dupont Circle",
+    "RIDERS_PER_WEEKDAY":20246.1197
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.157177,38.885841 ]
+    },
+    "properties": {
+    "FIELD1":22,
+    "STATION":"East Falls Church",
+    "RIDERS_PER_WEEKDAY":4055.956061
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.995334,38.884124 ]
+    },
+    "properties": {
+    "FIELD1":23,
+    "STATION":"Eastern Market",
+    "RIDERS_PER_WEEKDAY":5933.756061
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.071173,38.800313 ]
+    },
+    "properties": {
+    "FIELD1":24,
+    "STATION":"Eisenhower Avenue",
+    "RIDERS_PER_WEEKDAY":1852.7227269999998
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.039766,38.903192 ]
+    },
+    "properties": {
+    "FIELD1":25,
+    "STATION":"Farragut North",
+    "RIDERS_PER_WEEKDAY":24265.96818
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03981,38.901311 ]
+    },
+    "properties": {
+    "FIELD1":26,
+    "STATION":"Farragut West",
+    "RIDERS_PER_WEEKDAY":21778.9803
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01586,38.884958 ]
+    },
+    "properties": {
+    "FIELD1":27,
+    "STATION":"Federal Center SW",
+    "RIDERS_PER_WEEKDAY":5651.609090999999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.028218,38.893757 ]
+    },
+    "properties": {
+    "FIELD1":28,
+    "STATION":"Federal Triangle",
+    "RIDERS_PER_WEEKDAY":8932.031818000001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.050273,38.900599 ]
+    },
+    "properties": {
+    "FIELD1":29,
+    "STATION":"Foggy Bottom",
+    "RIDERS_PER_WEEKDAY":21255.23939
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.042953,39.015413 ]
+    },
+    "properties": {
+    "FIELD1":30,
+    "STATION":"Forest Glen",
+    "RIDERS_PER_WEEKDAY":2329.180303
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.002174,38.951777 ]
+    },
+    "properties": {
+    "FIELD1":31,
+    "STATION":"Fort Totten",
+    "RIDERS_PER_WEEKDAY":7381.5984849999995
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.168797,38.766129 ]
+    },
+    "properties": {
+    "FIELD1":32,
+    "STATION":"Franconia-Springfield",
+    "RIDERS_PER_WEEKDAY":8306.418182
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.085969,38.960744 ]
+    },
+    "properties": {
+    "FIELD1":33,
+    "STATION":"Friendship Heights",
+    "RIDERS_PER_WEEKDAY":9255.365152
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.021851,38.89834 ]
+    },
+    "properties": {
+    "FIELD1":34,
+    "STATION":"Gallery Place-Chinatown",
+    "RIDERS_PER_WEEKDAY":25895.81364
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.024728,38.936077 ]
+    },
+    "properties": {
+    "FIELD1":35,
+    "STATION":"Georgia Avenue-Petworth",
+    "RIDERS_PER_WEEKDAY":5962.683333
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05341,39.061713 ]
+    },
+    "properties": {
+    "FIELD1":36,
+    "STATION":"Glenmont",
+    "RIDERS_PER_WEEKDAY":5889.021212
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.911362,39.011036 ]
+    },
+    "properties": {
+    "FIELD1":37,
+    "STATION":"Greenbelt",
+    "RIDERS_PER_WEEKDAY":6486.257576
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.235192,38.919749 ]
+    },
+    "properties": {
+    "FIELD1":38,
+    "STATION":"Greensboro",
+    "RIDERS_PER_WEEKDAY":808.4666667
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10415,39.029158 ]
+    },
+    "properties": {
+    "FIELD1":39,
+    "STATION":"Grosvenor",
+    "RIDERS_PER_WEEKDAY":5580.265152
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.075301,38.793841 ]
+    },
+    "properties": {
+    "FIELD1":40,
+    "STATION":"Huntington",
+    "RIDERS_PER_WEEKDAY":8250.006061
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.016643,38.896084 ]
+    },
+    "properties": {
+    "FIELD1":41,
+    "STATION":"Judiciary Square",
+    "RIDERS_PER_WEEKDAY":9012.972727
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.061115,38.806474 ]
+    },
+    "properties": {
+    "FIELD1":42,
+    "STATION":"King St-Old Town",
+    "RIDERS_PER_WEEKDAY":8563.609091
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.021964,38.884775 ]
+    },
+    "properties": {
+    "FIELD1":43,
+    "STATION":"L'Enfant Plaza",
+    "RIDERS_PER_WEEKDAY":20265.17576
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.890988,38.934411 ]
+    },
+    "properties": {
+    "FIELD1":44,
+    "STATION":"Landover",
+    "RIDERS_PER_WEEKDAY":2100.4439390000002
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.8449,38.9008 ]
+    },
+    "properties": {
+    "FIELD1":45,
+    "STATION":"Largo Town Center",
+    "RIDERS_PER_WEEKDAY":4834.959091
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.210167,38.924478 ]
+    },
+    "properties": {
+    "FIELD1":46,
+    "STATION":"McLean",
+    "RIDERS_PER_WEEKDAY":1142.273077
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.033652,38.901316 ]
+    },
+    "properties": {
+    "FIELD1":47,
+    "STATION":"McPherson Square",
+    "RIDERS_PER_WEEKDAY":15756.04697
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.097253,38.999947 ]
+    },
+    "properties": {
+    "FIELD1":48,
+    "STATION":"Medical Center",
+    "RIDERS_PER_WEEKDAY":5841.45303
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.028099,38.898303 ]
+    },
+    "properties": {
+    "FIELD1":49,
+    "STATION":"Metro Center",
+    "RIDERS_PER_WEEKDAY":27283.763639999997
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.948042,38.898284 ]
+    },
+    "properties": {
+    "FIELD1":50,
+    "STATION":"Minnesota Avenue",
+    "RIDERS_PER_WEEKDAY":2888.478788
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.022256,38.905604 ]
+    },
+    "properties": {
+    "FIELD1":51,
+    "STATION":"Mt. Vernon Square-UDC",
+    "RIDERS_PER_WEEKDAY":4238.868182
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.005086,38.876588 ]
+    },
+    "properties": {
+    "FIELD1":52,
+    "STATION":"Navy Yard-Ballpark",
+    "RIDERS_PER_WEEKDAY":8128.20303
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.956565,38.851187 ]
+    },
+    "properties": {
+    "FIELD1":53,
+    "STATION":"Naylor Road",
+    "RIDERS_PER_WEEKDAY":2909.827273
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.872144,38.947674 ]
+    },
+    "properties": {
+    "FIELD1":54,
+    "STATION":"New Carrollton",
+    "RIDERS_PER_WEEKDAY":8890.131818
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.002961,38.907407 ]
+    },
+    "properties": {
+    "FIELD1":55,
+    "STATION":"NoMa-Gallaudet U",
+    "RIDERS_PER_WEEKDAY":8087.7803030000005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.054013,38.869349 ]
+    },
+    "properties": {
+    "FIELD1":56,
+    "STATION":"Pentagon",
+    "RIDERS_PER_WEEKDAY":15787.59394
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.059507,38.863045 ]
+    },
+    "properties": {
+    "FIELD1":57,
+    "STATION":"Pentagon City",
+    "RIDERS_PER_WEEKDAY":15074.51515
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.985721,38.880841 ]
+    },
+    "properties": {
+    "FIELD1":58,
+    "STATION":"Potomac Avenue",
+    "RIDERS_PER_WEEKDAY":3746.5090909999994
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.956182,38.965276 ]
+    },
+    "properties": {
+    "FIELD1":59,
+    "STATION":"Prince George's Plaza",
+    "RIDERS_PER_WEEKDAY":4986.554545
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.043805,38.852985 ]
+    },
+    "properties": {
+    "FIELD1":60,
+    "STATION":"Reagan Washington National Airport",
+    "RIDERS_PER_WEEKDAY":6111.660606
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99598399999999,38.920741 ]
+    },
+    "properties": {
+    "FIELD1":61,
+    "STATION":"Rhode Island Avenue",
+    "RIDERS_PER_WEEKDAY":5473.766667
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.146424,39.084215 ]
+    },
+    "properties": {
+    "FIELD1":62,
+    "STATION":"Rockville",
+    "RIDERS_PER_WEEKDAY":4627.190909
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07146,38.896595 ]
+    },
+    "properties": {
+    "FIELD1":63,
+    "STATION":"Rosslyn",
+    "RIDERS_PER_WEEKDAY":15460.85455
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.164921,39.119819 ]
+    },
+    "properties": {
+    "FIELD1":64,
+    "STATION":"Shady Grove",
+    "RIDERS_PER_WEEKDAY":12889.99545
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.022194,38.912919 ]
+    },
+    "properties": {
+    "FIELD1":65,
+    "STATION":"Shaw-Howard University",
+    "RIDERS_PER_WEEKDAY":4901.666667
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.031321,38.993841 ]
+    },
+    "properties": {
+    "FIELD1":66,
+    "STATION":"Silver Spring",
+    "RIDERS_PER_WEEKDAY":12710.67727
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.028232,38.888022 ]
+    },
+    "properties": {
+    "FIELD1":67,
+    "STATION":"Smithsonian",
+    "RIDERS_PER_WEEKDAY":10887.47576
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97536,38.840974 ]
+    },
+    "properties": {
+    "FIELD1":68,
+    "STATION":"Southern Avenue",
+    "RIDERS_PER_WEEKDAY":5305.531818
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.241988,38.929273 ]
+    },
+    "properties": {
+    "FIELD1":69,
+    "STATION":"Spring Hill",
+    "RIDERS_PER_WEEKDAY":1076.072727
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.977485,38.88594 ]
+    },
+    "properties": {
+    "FIELD1":70,
+    "STATION":"Stadium-Armory",
+    "RIDERS_PER_WEEKDAY":2848.8212120000003
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.932022,38.843891 ]
+    },
+    "properties": {
+    "FIELD1":71,
+    "STATION":"Suitland",
+    "RIDERS_PER_WEEKDAY":5762.116667
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.017834,38.975532 ]
+    },
+    "properties": {
+    "FIELD1":72,
+    "STATION":"Takoma",
+    "RIDERS_PER_WEEKDAY":5693.5969700000005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.079615,38.947808 ]
+    },
+    "properties": {
+    "FIELD1":73,
+    "STATION":"Tenleytown-AU",
+    "RIDERS_PER_WEEKDAY":6969.259091
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.121113,39.062359 ]
+    },
+    "properties": {
+    "FIELD1":74,
+    "STATION":"Twinbrook",
+    "RIDERS_PER_WEEKDAY":4377.124242
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.223314,38.920056 ]
+    },
+    "properties": {
+    "FIELD1":75,
+    "STATION":"Tysons Corner",
+    "RIDERS_PER_WEEKDAY":2306.84
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.028938,38.916489 ]
+    },
+    "properties": {
+    "FIELD1":76,
+    "STATION":"U Street-Cardozo",
+    "RIDERS_PER_WEEKDAY":7055.924242
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.006745,38.897723 ]
+    },
+    "properties": {
+    "FIELD1":77,
+    "STATION":"Union Station",
+    "RIDERS_PER_WEEKDAY":31481.80758
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.129407,38.799193 ]
+    },
+    "properties": {
+    "FIELD1":78,
+    "STATION":"Van Dorn Street",
+    "RIDERS_PER_WEEKDAY":3367.707576
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.063511,38.94362 ]
+    },
+    "properties": {
+    "FIELD1":79,
+    "STATION":"Van Ness-UDC",
+    "RIDERS_PER_WEEKDAY":6672.422727
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.271562,38.877693 ]
+    },
+    "properties": {
+    "FIELD1":80,
+    "STATION":"Vienna",
+    "RIDERS_PER_WEEKDAY":12425.19697
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.104267,38.88331 ]
+    },
+    "properties": {
+    "FIELD1":81,
+    "STATION":"Virginia Square-GMU",
+    "RIDERS_PER_WEEKDAY":3830.6030299999998
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.017491,38.876221 ]
+    },
+    "properties": {
+    "FIELD1":82,
+    "STATION":"Waterfront",
+    "RIDERS_PER_WEEKDAY":4066.312121
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.189394,38.90067 ]
+    },
+    "properties": {
+    "FIELD1":83,
+    "STATION":"West Falls Church",
+    "RIDERS_PER_WEEKDAY":8222.489394
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.969881,38.954931 ]
+    },
+    "properties": {
+    "FIELD1":84,
+    "STATION":"West Hyattsville",
+    "RIDERS_PER_WEEKDAY":3724.919697
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.051098,39.038558 ]
+    },
+    "properties": {
+    "FIELD1":85,
+    "STATION":"Wheaton",
+    "RIDERS_PER_WEEKDAY":4126.2121210000005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.113131,39.048043 ]
+    },
+    "properties": {
+    "FIELD1":86,
+    "STATION":"White Flint",
+    "RIDERS_PER_WEEKDAY":3883.524242
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.340179,38.947753 ]
+    },
+    "properties": {
+    "FIELD1":87,
+    "STATION":"Wiehle",
+    "RIDERS_PER_WEEKDAY":6069.376
+    }
+  }
+]
+}
