@@ -4,7 +4,6 @@ Flask-PyMongo==0.5.1
 future==0.16.0
 gast==0.2.0
 gevent==1.2.2
-gmpy2==2.0.8
 google-api-python-client==1.6.5
 graphviz==0.8.2
 greenlet==0.4.13
