@@ -15,8 +15,9 @@ function getColor(d) {
 
 // Store the API endpoint inside the queryURL.
 
-var queryURL = "https://rawgit.com/ENPlummer/c7fde15929501bc27b412aa053045d53/raw/ae728e1cd40d2a7692a0bf7568ec384aff6a4f06/metro.geojson"
+//var queryURL = "https://rawgit.com/ENPlummer/c7fde15929501bc27b412aa053045d53/raw/ae728e1cd40d2a7692a0bf7568ec384aff6a4f06/metro.geojson"
 
+var queryURL = "https://gist.github.com/ENPlummer/c7fde15929501bc27b412aa053045d53"
 // Perform a GET request to query the URL.
 d3.json(queryURL,function(data) {
 	//CreateFeatures object for the Create features function.
